@@ -38,6 +38,7 @@ Test the C Program for the desired output.
 
 
 ##OUTPUT
+<img width="610" height="196" alt="Screenshot from 2025-09-06 14-54-37" src="https://github.com/user-attachments/assets/914725c5-3c1c-40e3-a2e8-64af842b682f" />
 
 
 
@@ -74,6 +75,7 @@ Test the C Program for the desired output.
 
 
 ##OUTPUT
+![Uploading Screenshot from 2025-09-06 14-57-55.png…]()
 
 
 
